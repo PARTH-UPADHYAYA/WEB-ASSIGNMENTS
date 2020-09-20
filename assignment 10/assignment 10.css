@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+
+.h2{
+    color: purple;
+
+}
+.none{
+    text-decoration: none;
+}
+.brown{
+    color: brown;
+}
+.blue{
+    color:rgb(14, 120, 196);
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.red{
+    color: red;
+}
+.lgreen{
+    color: lightgreen;
+}
+.dgreen{
+    color:darkgreen;
+}
+.yellow{
+    color:yellow;
+}
