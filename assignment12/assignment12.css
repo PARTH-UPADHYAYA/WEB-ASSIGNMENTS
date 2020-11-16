@@ -1,0 +1,43 @@
+body{
+    background-color: darkslategrey;
+}
+.idiol{
+    /* background-color: firebrick; */
+    background-color: gold;
+    color: indigo;
+    text-align: center;
+    font-size: xxx-large;
+}
+.albert .title{
+    color: lawngreen;
+    text-indent: 300px;
+    /* text-shadow:black 8px -9px 4px,
+    green 9px 10px 3px,
+    blue -100px 0px 4px,
+    red 9px -20px 7px, */
+    
+        text-shadow: 0 -1px 0.6px red,
+                     -1px -0 0.5px blue,
+                     -1px -2px 0.5px blueviolet,
+                     -2px -1px 0.5px,
+                     -2px -3px 4px black,
+                     -3px -2px 4px wheat,
+                     -3px -4px 4px pink,
+                     -4px -3px 3px darkgoldenrod,
+                     -4px -5px 2px darkslategrey,
+                     -5px -4px 1px darkturquoise,
+                    -5px -6px 6px darkred,
+                    -6px -5px 3px black   ,
+                    -6px -7px 2px,
+                    -7px -6px 1px,
+                    -7px -8px 5px,
+                    -8px -7px 8px;
+   
+    ;
+    text-decoration: chocolate underline;
+    font-size: 6vmax;
+}
+.albert p.first{
+    color: coral;
+    text-decoration: ;
+}
